@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple. 
 Merge without fast forward.
 Testing stash function. 
-This is a dev branch. 
+This is a dev branch. Now we test the stash function. 
